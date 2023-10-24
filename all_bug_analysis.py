@@ -1,6 +1,7 @@
 '''
 Akond Rahman 
-Sep 27, 2023
+Lauren Lyons
+Oct 24, 2023
 Answer to RQ1 
 '''
 import os 
